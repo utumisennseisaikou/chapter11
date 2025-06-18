@@ -1,6 +1,6 @@
 package kadai11;
 
-public class Main {
+public class Main  {
     public static void main(String[] args) {
         Fool fool = new Fool("怠け者", 80);
         fool.talk();

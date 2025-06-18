@@ -6,7 +6,7 @@ public class Fool extends Character implements Human {
 
     }
     public void talk(){
-        System.out.println(this.name+"は意味のないことを話した");
+        System.out.println(this.name+"は意味のないことを話した!");
     }
     public void watch(){
         System.out.println(this.name+"は虚空を見つめている");
